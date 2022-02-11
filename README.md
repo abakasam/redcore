@@ -12,162 +12,32 @@ book!assembly language, 9781800204805 build your own programming language
 book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
 
 # Redcode
-- Intro
- - Warriors
- - Standards
-  - Redcode Assembly Language Specification (ICWS'94)
-   - Introduction
-    - Purpose
-    - Overview
-    - Acknowledgements
-   - Redcode Assembly File Format
-    - Purpose
-    - Description
-    - Grammar
-    - Assembly to Object Code Conversion
-    - Psuedo-instructions
-    - Comment Conventions
-    - Example Assembly File
-   - Load File Format
-    - Purpose
-    - Description
-    - Grammar
-    - Comment Conventions
-    - Example Load File
-   - Run Time Variables
-    - Purpose
-    - Variables
-    - Standard Variable Sets
-   - MARS
-    - Purpose
-    - Description
-    - Address Modes
-     - Immediate
-     - Direct
-     - Indirect
-     - Predecrement Indirect
-     - Postincrement Indirect
-    - Modifiers
-     - A
-     - B
-     - AB
-     - BA
-     - F
-     - X
-     - I
-    - Instruction Set
-     - DAT
-     - MOV
-     - ADD
-     - SUB
-     - MUL
-     - DIV
-     - MOD
-     - JMP
-     - JMZ
-     - JMN
-     - DJN
-     - CMP
-     - SLT
-     - SPL
-    - Example MARS Interpreter
-   - Validation Suite
-    - Purpose and Requirements
-    - Assembly to Load File Test
-    - MARS Tests
-     - DAT Tests
-     - MOV Tests
-     - ADD Tests
-     - SUB Tests
-     - MUL Tests
-     - DIV Tests
-     - MOD Tests
-     - JMP Tests
-     - JMZ Tests
-     - JMN Tests
-     - DJN Tests
-     - CMP Tests
-     - SLT Tests
-     - SPL Tests
-   - Glossary and Index
-   - Difference Between Standards
-    - Purpose
-    - Changes
-     - Assembly Files
-      - ICWS'88 Conversion
-      - ICWS'86 Conversion
-     - Load Files
-     - MARS
-- Operands
-- Opcodes
- - DAT
- - MOV
- - ADD
- - SUB
- - MUL
- - DIV
- - MOD
- - JMP
- - JMZ
- - JMN
- - DJN
- - CMP
- - SEQ
- - SNE
- - SLT
- - SPL
- - NOP
-- Modifers
- - .A
- - .B
- - .AB
- - .BA
- - .F
- - .X
- - .I
-- Addressing Modes
- - Execution
- - Addressing Modes
-  - # Immediate
-  - $ Direct
-  - - A Indirect
-  - @ B Indirect
-  - { A Predecrement Indirect
-  - } A Postincrement Indirect
-  - < B Predecrement Indirect
-  - > B Postincrement Indirect
-- ORG and END
- - ORG
- - END
- - Parser Warnings
-- Parser
- - Parser Functions
- - Defaults
- - Addressing Modes
- - Operands
- - Modifiers
-- Labels
- - Literal Addresses
- - Label Name
- - Relative Instruction
- - Multiple Labels
-- Preprocessor
- - EQU directive
-  - Literal Number Constant
-  - Label Constant
- - Mathematical Expressions
- - Special Constants
-  - Core
-  - Processes
-  - P-Space
- - Assert
-- FOR blocks
-- Comments
-- Metadata
- - ;Standard
- - ;Name Warrior
- - ;Author
- - ;Strategy
+* Intro
+ * Warriors
+ * Standards
+  * Redcode Assembly Language Specification (ICWS'94)
+   * Introduction
+    * Purpose
+    * Overview
+    * Acknowledgements
+   * Redcode Assembly File Format
+    * Purpose
+    * Description
+    * Grammar
+    * Assembly to Object Code Conversion
+    * Psuedo-instructions
+    * Comment Conventions
+    * Example Assembly File
+   * Load File Format
+    * Purpose
+    * Description
+    * Grammar
+    * Comment Conventions
+    * Example Load File
+   * Run Time Variables
+    * Purpose
+    * Variables
+    * Standard Variable Sets
 
 ![Corewar](https://github.com/corewar/corewar.io/blob/master/packages/corewar/logo.png)
 
