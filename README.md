@@ -87,7 +87,7 @@
         - DJN Tests
         - CMP Tests
         - SLT Tests
-     - SPL Tests
+        - SPL Tests
    - Glossary and Index
    - Difference Between Standards
     - Purpose
