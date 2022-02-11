@@ -11,33 +11,18 @@
 book!assembly language, 9781800204805 build your own programming language
 book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
 
+book!assembly language, 9781800204805 build your own programming language
+book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
+
 # Redcode
-* Intro
- * Warriors
- * Standards
-  * Redcode Assembly Language Specification (ICWS'94)
-   * Introduction
-    * Purpose
-    * Overview
-    * Acknowledgements
-   * Redcode Assembly File Format
-    * Purpose
-    * Description
-    * Grammar
-    * Assembly to Object Code Conversion
-    * Psuedo-instructions
-    * Comment Conventions
-    * Example Assembly File
-   * Load File Format
-    * Purpose
-    * Description
-    * Grammar
-    * Comment Conventions
-    * Example Load File
-   * Run Time Variables
-    * Purpose
-    * Variables
-    * Standard Variable Sets
+- Intro
+  - Warriors
+  - Standards
+    - Redcode Assembly Language Specification (ICWS'94)
+      - Introduction
+        - Purpose
+        - Overview
+        - Acknowledgements
 
 ![Corewar](https://github.com/corewar/corewar.io/blob/master/packages/corewar/logo.png)
 
