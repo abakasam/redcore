@@ -90,13 +90,13 @@
         - SPL Tests
    - Glossary and Index
    - Difference Between Standards
-    - Purpose
-    - Changes
-     - Assembly Files
-      - ICWS'88 Conversion
-      - ICWS'86 Conversion
-     - Load Files
-     - MARS
+     - Purpose
+     - Changes
+       - Assembly Files
+         - ICWS'88 Conversion
+         - ICWS'86 Conversion
+       - Load Files
+       - MARS
   - Operands
   - Opcodes
     - DAT
