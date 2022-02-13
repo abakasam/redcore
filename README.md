@@ -1,7 +1,7 @@
 # Corewar
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 - Guide
-  - book!computer memory 
+  - book!computer memory - memory management - memory manager,
 - Redcode
   - book!assembly language, 9781800204805 build your own programming language
   - book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
