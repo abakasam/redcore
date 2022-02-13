@@ -10,6 +10,88 @@
   - Models
   - Math
 
+# Guide
+- Corewar
+  - Introduction
+    - Warriors
+    - Core
+    - Battle
+    - Redcode
+    - Cycle
+    - Match
+    - Hills
+  - Core
+    - Computer Memory
+    - Address
+    - Overwriting
+  - Initialisation
+  - Addressess
+    - Absolute Address
+    - Relative Address
+    - Modulus
+  - Warriors
+    - Program
+    - Process
+    - Redcode
+  - Hills
+    - Hill
+    - Season
+    - Matchup
+    - Ranked
+    - Settings
+  - Loader
+    - Loaded
+    - Minimum Specification
+    - Placement
+    - Specified Directive
+  - Visualization
+    - Grid
+    - Row
+    - Color
+    - Write
+    - Overwrite
+    - Read
+    - Execute
+  - Processes
+    - Single Process
+    - Turn
+    - No Single Process
+    - Gain Process
+    - Turn Order
+    - Multiple Processes
+  - Benchmarks
+    - Benchmark
+    - Gauge
+    - Score
+  - Execution
+    - Scheme
+    - Temporary Register
+    - Known Register
+    - Fetch
+    - Decode
+    - Execute
+    - Example
+      - Evaluation
+      - B Postincrement Indirect
+      - Fetch
+      - Decode
+      - B Postincrement Direct
+      - Execute
+  - Match Setting
+    - Core Size
+    - Maximum Cycles
+    - Maximum Processes
+    - Maximum Warrior Length
+    - Minimum Separation
+    - Standard
+    - Read Limit
+    - Write Limit
+  - Strategies
+    - Principal Strategy
+    - Rock
+    - Paper
+    - Scissors
+
 # Redcode
 - Intro
   - Warriors
