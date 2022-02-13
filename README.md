@@ -1,7 +1,7 @@
 # Corewar
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 - Guide
-  - book!computer memory - memory management - memory manager,
+  - book!computer memory - memory management - memory manager / memory > instruction > block > type,
 - Redcode
   - book!assembly language, 9781800204805 build your own programming language
 - Configuration
