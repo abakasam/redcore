@@ -5,13 +5,15 @@
 Core War is a 1984 programming game created by DG Jones and AK Dewdney in which two or more battle programs compete for control of a virtual computer. These battle programs are written in an abstract assembly language called Redcode.
 
 ## Structure
-- UI        corewar-app/src/App.js
-- IDE       corewar-app/src/pages/editor.js
-- Parser    corewar/src/parser
-- Simulator corewar/src/simulator
-- Benchmark corewar/src/matches
-- API       corewar-api/src
-- Docs      docs (https://corewar-docs.readthedocs.io/)
+Project   | Path
+----------|--------------------------------------------
+UI        | corewar-app/src/App.js
+IDE       | corewar-app/src/pages/editor.js
+Parser    | corewar/src/parser
+Simulator | corewar/src/simulator
+Benchmark | corewar/src/matches
+API       | corewar-api/src
+Docs      | docs (https://corewar-docs.readthedocs.io/)
 
 ## Software Used
 - "@types/chai": "^4.2.7"
