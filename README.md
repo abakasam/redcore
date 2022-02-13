@@ -4,12 +4,15 @@
   - book!computer memory - memory management - memory manager,
 - Redcode
   - book!assembly language, 9781800204805 build your own programming language
-  - book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
 - Configuration
+  - nobook
 - Theory
   - Architecture
+    - book!visually how instructions move off abstract hardware, 9781502710826 assembly language mnemonic notebook
   - Models
-  - Math
+    - book!
+  - Logic
+    - book! 
 
 # Guide
 - Corewar
