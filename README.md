@@ -45,20 +45,29 @@ Docs      | docs (https://corewar-docs.readthedocs.io/)
 - "typescript": "^3.7.5"
 - "yarn": "^1.22.4"
 
-## Old
+## Running Corewar
 
 ```
-wget (corewar)
-cd (corewar)
+wget https://github.com/abakasam/redcore/archive/refs/heads/master.zip
+unzip master.zip
+cd redcore-master/
 wget https://nodejs.org/download/release/v12.22.10/node-v12.22.10-linux-x64.tar.gz
 tar -xvf node-v12.22.10-linux-x64.tar.gz
 mv node-v12.22.10-linux-x64.tar.gz node
 PATH=$PATH:/home/cabox/workspace/corewar/node/bin
 PATH=$PATH:/home/cabox/workspace/corewar/node_modules/yarn/bin
-npm install --global lerna@3.22.1
+npm install --global lerna@3.22.1 # If lerna fails
 yarn bootstrap
 lerna bootstrap
 yarn run env
+yarn config set HOSTNAME 0.0.0.0 # If timeout occurs
+yarn start # few seconds to load
+
+wget https://github.com/abakasam/redcore/releases/download/working/redcore-master.tar.gz
+mkdir redcore
+cd redcore
+tar -xvf redcore-master.tar.gz
+yarn start
 ```
 
 ## Yarn Usage
