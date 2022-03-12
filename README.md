@@ -15,16 +15,6 @@ Benchmark | corewar/src/matches
 API       | corewar-api/src
 Docs      | docs (https://corewar-docs.readthedocs.io/)
 
-## Software Used
-- Chai
-- Jest
-- MongoDB
-- Sinon
-- ESLint
-- Lerna
-- Prettier
-- React
-
 ## Running Corewar
 
 ```
