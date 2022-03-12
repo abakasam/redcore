@@ -22,7 +22,7 @@ Docs      | docs (https://corewar-docs.readthedocs.io/)
   - Memory | Computer Register
   - Process | Computer Arithmetic
   - Program | Instruction Cycle
-  - Info | Computer Memory 
+  - Display | Computer Memory 
 - Configuration (Application) [Configuration.md](https://github.com/abakasam/redcore/files/8238172/Configuration.md)
 
 
