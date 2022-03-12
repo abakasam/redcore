@@ -15,6 +15,17 @@ Benchmark | corewar/src/matches
 API       | corewar-api/src
 Docs      | docs (https://corewar-docs.readthedocs.io/)
 
+- Guide (Game) [Guide.md](https://github.com/abakasam/redcore/files/8238168/Guide.md)
+- Redcode (Assembly Language) [Redcode.md](https://github.com/abakasam/redcore/files/8238169/Redcode.md)
+- Virtual Computer
+  - Circuit | Binary Langauge
+  - Memory | Computer Register
+  - Process | Computer Arithmetic
+  - Program | Instruction Cycle
+  - Info | Computer Memory 
+- Configuration (Application) [Configuration.md](https://github.com/abakasam/redcore/files/8238172/Configuration.md)
+
+
 ## Running Corewar
 
 ```
