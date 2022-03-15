@@ -7,6 +7,7 @@ Core War is a 1984 programming game created by DG Jones and AK Dewdney in which 
 ## Structure
 Project   | Path
 ----------|--------------------------------------------
+Terminal  | ?
 UI        | corewar-app/src/App.js
 IDE       | corewar-app/src/pages/editor.js
 Parser    | corewar/src/parser
