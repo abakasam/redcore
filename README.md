@@ -27,7 +27,11 @@ Docs      | docs (https://corewar-docs.readthedocs.io/)
   - Program | Instruction Cycle
   - Display | Computer Memory 
 - Configuration (Application) [Configuration.md](https://github.com/abakasam/redcore/files/8238172/Configuration.md)
-
+- Logic
+  - Finite Graphs and Networks an Introduction with Applications, Robert Busacker, 0070093059
+  - Minitab Handbook, Barbara Ryan, 0534212409
+  - Introduction to Algebraic Topology, Andrew Wallace, 0080001181
+  - Graph Alogirithms, Shimon Even, 978-0521517188
 
 ## Running Corewar
 
