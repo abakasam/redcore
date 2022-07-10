@@ -28,7 +28,7 @@ Years | Technology | Possession | Study | Language
 90 | Console | GameBoy Color | Game Programming | Z80
 00 | Phone | OnePlus 1 | ?Embedded Systems | Java
 10 | IPA | Driftyco | Expert Systems | Clisp
-20 | Bot | Tamiya | Automotive Engineering | none
+20 | Bot | Tamiya | Automotive Engineering | Physics
 
 ### Tocs
 
