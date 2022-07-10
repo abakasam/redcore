@@ -19,16 +19,16 @@ Benchmark | corewar/src/matches
 API       | corewar-api/src
 Docs      | docs (https://corewar-docs.readthedocs.io/)
 
-Years | Technology | Possession | Study
-------|------------|------------|-------
-50 | Satellite | TMobile | ?Singal Processing
-60 | Server | Xfinity | ?Computer Networks
-70 | Calculator | TI-83+ | ?Digital Circuits
-80 | Desktop | HP Prodesk | Computer Architecture
-90 | Console | GameBoy Color | Game Programming 
-00 | Phone | OnePlus 1 | ?Embedded Systems
-10 | IPA | Driftyco | Expert Systems
-20 | Bot | Tamiya | Automotive Engineering
+Years | Technology | Possession | Study | Language
+------|------------|------------|-------|----------
+50 | Satellite | TMobile | ?Singal Processing | Physics
+60 | Server | Xfinity | ?Computer Networks | Physics
+70 | Calculator | TI-83+ | ?Digital Circuits | Physics
+80 | Desktop | HP Prodesk | Computer Architecture | C
+90 | Console | GameBoy Color | Game Programming | Z80
+00 | Phone | OnePlus 1 | ?Embedded Systems | Java
+10 | IPA | Driftyco | Expert Systems | Clisp
+20 | Bot | Tamiya | Automotive Engineering | none
 
 ### Tocs
 
