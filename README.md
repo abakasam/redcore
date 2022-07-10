@@ -19,8 +19,8 @@ Benchmark | corewar/src/matches
 API       | corewar-api/src
 Docs      | docs (https://corewar-docs.readthedocs.io/)
 
-Years | Technology | Study
-------|------------|-------
+Years | Technology | Possession | Study
+------|------------|------------|-------
 50 | Satellite | TMobile | ?Singal Processing
 60 | Server | Xfinity | ?Computer Networks
 70 | Calculator | TI-83+ | ?Digital Circuits
