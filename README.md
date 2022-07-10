@@ -19,6 +19,17 @@ Benchmark | corewar/src/matches
 API       | corewar-api/src
 Docs      | docs (https://corewar-docs.readthedocs.io/)
 
+Years | Technology | Study
+------|------------|-------
+50 | Satellite | TMobile | ?Singal Processing
+60 | Server | Xfinity | ?Computer Networks
+70 | Calculator | TI-83+ | ?Digital Circuits
+80 | Desktop | HP Prodesk | Computer Architecture
+90 | Console | GameBoy Color | Game Programming 
+00 | Phone | OnePlus 1 | ?Embedded Systems
+10 | IPA | Driftyco | Expert Systems
+20 | Bot | Tamiya | Automotive Engineering
+
 ### Tocs
 
 - Guide (Game) [Guide.md](https://github.com/abakasam/redcore/files/8238168/Guide.md)
