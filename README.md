@@ -10,7 +10,7 @@ Project   | Path
 (Logic).  | Showing math or logic on virtual computer
 (Computer)| Instructions on virtual computer
 (Memory). | Showing instructions and circuit
-Terminal  | ?
+Terminal  | ?pmars
 UI        | corewar-app/src/App.js
 IDE       | corewar-app/src/pages/editor.js
 Parser    | corewar/src/parser
