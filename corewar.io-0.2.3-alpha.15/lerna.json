@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "packages/corewar",
+    "packages/corewar-ui",
+    "packages/corewar-hills-service",
+    "packages/corewar-repository",
+    "packages/corewar-message-types",
+    "packages/corewar-infrastructure"
+  ],
+  "version": "0.2.3-alpha.15"
+}

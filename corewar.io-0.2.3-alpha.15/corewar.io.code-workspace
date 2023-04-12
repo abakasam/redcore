@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "packages\\corewar"
+		},
+		{
+			"path": "packages\\corewar-api"
+		},
+		{
+			"path": "packages\\corewar-challenge-service"
+		},
+		{
+			"path": "packages\\corewar-hills-service"
+		},
+		{
+			"path": "packages\\corewar-infrastructure"
+		},
+		{
+			"path": "packages\\corewar-message-types"
+		},
+		{
+			"path": "packages\\corewar-repository"
+		},
+		{
+			"path": "packages\\corewar-ui"
+		}
+	]
+}

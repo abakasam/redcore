@@ -1,0 +1,36 @@
+{
+  "name": "corewar-infrastructure",
+  "version": "0.2.3-alpha.15",
+  "description": "Microservice infrastructure such as service bus and graphql connectivity",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "exit(0)",
+    "coverage": "jest --coverage",
+    "build": "tsc -p tsconfig-build.json",
+    "prepublish": "npm run build",
+    "prepublishOnly": "npm test"
+  },
+  "author": "gareththegeek",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/azure-sb": "0.0.37",
+    "@types/jsonwebtoken": "^8.5.0",
+    "@types/node-fetch": "^2.5.7",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@azure/functions": "^1.2.2",
+    "@azure/service-bus": "^1.1.7",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-http": "^1.5.17",
+    "azure-sb": "^0.11.1",
+    "graphql": "^15.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^1.8.1",
+    "node-fetch": "^2.6.0"
+  },
+  "gitHead": "fbd8be04636a2df60554f7c62e12f9976d31a558"
+}

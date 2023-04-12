@@ -1,0 +1,18 @@
+{
+  "name": "corewar-message-types",
+  "version": "0.2.3-alpha.15",
+  "description": "Interface declarations for Azure Service Bus messages",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "gareththegeek",
+  "license": "MIT",
+  "devDependencies": {
+    "@azure/service-bus": "^1.1.7",
+    "corewar": "^0.2.3-alpha.8",
+    "typescript": "^3.9.5"
+  },
+  "gitHead": "fbd8be04636a2df60554f7c62e12f9976d31a558"
+}
